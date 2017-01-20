@@ -93,7 +93,8 @@ The result should look like this:
 [@2,16:15='<EOF>',<-1>,3:0]
 ```
 
-Abstractly:  [@<token nbr>,<abs position>='<recognized string>',<rule nbr>,<row-col position>]
+Abstractly:  [@<token nbr>,<abs position>='<recognized string>',<rule nbr>,<row-col position>
+This doesn't appear to be valid for version 4.6. Investigating   ^^^.
 
 Line one of this output:
 
